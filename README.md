@@ -49,7 +49,7 @@ __name__ == "__main__"	Makes sure the app runs only when executed directly
 r.incr('hits')	Increments a counter inside Redis
 
 🔗 Example Browser View
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/22289dea-5119-4cbb-857e-3a11bd04b8da)
 
 ✅ Requirements
 
